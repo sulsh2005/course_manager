@@ -1,0 +1,20 @@
+[
+  {
+    "name": "操作系统原理",
+    "weekday": 1,
+    "start_time": "08:00",
+    "end_time": "09:40",
+    "location": "东C303",
+    "teacher": "刘老师",
+    "credit": 4.0
+  },
+  {
+    "name": "软件工程",
+    "weekday": 1,
+    "start_time": "10:10",
+    "end_time": "11:50",
+    "location": "东D303",
+    "teacher": "郑贵锋",
+    "credit": 3.0
+  }
+]

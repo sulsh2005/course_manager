@@ -1,0 +1,9 @@
+# 进入项目根目录
+cd /path/to/course_manager
+
+
+# 设置Python路径（Windows PowerShell）
+$env:PYTHONPATH = "$env:PYTHONPATH;./src"
+
+# 运行程序
+python -m course_manager.gui.main
